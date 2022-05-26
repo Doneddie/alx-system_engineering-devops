@@ -1,2 +1,2 @@
 #!/bin/bash
-id -nu current user
+id -nu root
